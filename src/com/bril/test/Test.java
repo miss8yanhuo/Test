@@ -9,7 +9,7 @@ public class Test {
 		
 		String strs1 = str.substring(str.lastIndexOf("/")+1);
 		System.out.println(strs1);
-		System.out.println(2333);
+		System.out.println(23332);
 		
 	}
 
